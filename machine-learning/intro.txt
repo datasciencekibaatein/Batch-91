@@ -1,0 +1,45 @@
+Machine learning
+
+We want to train the machine so it could do prediction.
+
+model -> mathematical function which we train on specific dataset
+
+Types of machine learning
+
+- Supervised Machine learning
+- Unsupervised machine learning
+- Reinforcement machine learning
+
+
+Supervised machine learning: we use the labeld data. (x,y)
+Unsupervised machine learning: we use the unlabeld data. (X)
+Reinforcement learning: we train our model with trials.
+
+
+Supervised machine learning Algorithms:
+1. Regression Algorithms
+    1.1 Simple linear Regression
+    1.2 Multiple linear Regression
+
+2. Classification Algorithms
+    2.1 Logistic Regression
+    2.2 SVM(Support vector machine)
+    2.3 Naive bayes
+    2.4 KNN(K-Nearest Neighbors)
+    2.5 Decision Tree
+
+3. Ensemble Techniques
+    3.1 Random Forest
+    3.2 Boosting Techniques
+        3.2.1 Adaboost
+        3.2.2 Gradient Boosting
+        3.2.3 XGBoost
+
+
+Unsupervised Machine learning
+1. KMeans clustering
+2. Hierarchical clustering
+
+
+
+
